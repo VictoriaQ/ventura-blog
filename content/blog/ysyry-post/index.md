@@ -1,7 +1,7 @@
 ---
 title: Ysyry
 date: "2019-05-13T22:59:09.284Z"
-description: Post para #ZendaAventuras
+description: "Post para #ZendaAventuras"
 ---
 
 Llegó a lo alto de la colina antes de que el cielo empezase a clarear y mucho
