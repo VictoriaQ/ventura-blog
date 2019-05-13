@@ -70,4 +70,5 @@ semanas.
 
 Pese a su corta edad, Ysyry entendió inmediatamente que su pueblo iba a tener que
 elegir entre morir de hambre o aceptar las bebidas azules y los pequeños
+lingotes de cereal y azúcar. No estaba segura de lo que harían los suyos, pero ella ya había elegido.
 
