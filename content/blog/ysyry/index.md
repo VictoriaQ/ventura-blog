@@ -37,7 +37,7 @@ nadie la dejaría llevarlo a la práctica, de modo que no había otra forma. No
 habría podido explicar que, de algún modo, confiaba en que los habitantes del poblado
 invasor les ayudarían. Solo había oído historias horribles acerca de ellos desde que le alcanzaba la memoria. Y, sin embargo, aquel niño al que vio entre los árboles aquel día le pareció de fiar. Eso era todo lo que tenía.
 
-Comenzó a oír ruido mucho antes de que sus ojos viesen nada. Era un
+Comenzó a oir ruido mucho antes de que sus ojos viesen nada. Era un
 sonido fuerte y melódico que no se parecía a nada que conociese. En cierto
 modo similar a los tambores
 que solían tocarse en su aldea las noches en las que aún había algo que
