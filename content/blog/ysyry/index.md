@@ -24,7 +24,7 @@ entre la maleza, atenta para no rozarse con ninguna planta venenosa y para
 evitar cualquier encuentro desagradable.
 
 A las doce del mediodía el cansancio comenzó a hacer mella. En su cabeza se
-sucedían los mensajes de intranquilidad que había empezado a oír hacía ya
+sucedían los mensajes de intranquilidad que había empezado a oir hacía ya
 muchos meses. «Hay cada vez menos aves», le oyó a su abuelo la primera vez. «El
 río se está secando», comentó la madre de su amigo Katu poco después. «Ya
 no vienen comadrejas», le dijo el anciano chamán a su padre. En los últimos meses ya
@@ -61,7 +61,7 @@ sin pensar se acercó el recipiente a los labios y bebió un gran trago de aquel
 refrescante. Sin respirar, apuró lo que quedaba en la botella.
 Al dejarla en el suelo encontró lo que parecía un pequeño lingote de
 algo comestible, pegajoso y mordisqueado. Tras olisquearlo se lo echó a la
-boca. Esto si lo había probado antes: sabía a miel. Recogiendo lo que quedaba de los
+boca. Aquello si lo había probado antes: sabía a miel. Recogiendo lo que quedaba de los
 recién descubierto tesoros, regresó tras las hojas de palma y se sentó a
 esperar. Se sentía con más energía de lo que se había sentido en muchas
 semanas.
