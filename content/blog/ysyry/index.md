@@ -47,7 +47,7 @@ figura que se movía de un modo en el que nunca había visto a nada
 moverse. La silueta pasaba frenéticamente de la posición vertical a la
 horizontal, para entonces impulsarse con manos y pies, volviendo a la
 postura inicial. Continuó la sucesión de esos movimientos durante lo que le
-pareció un tiempo interminable. A juzgar por los jadeos, tambien para la
+pareció un tiempo interminable. A juzgar por los jadeos, también para la
 desquiciada figura había sido una eternidad. Acabado el ritual, el sonido de tambores cesó y la figura -en la que ahora podía distinguir a una chica algo mayor que
 ella misma- se dio la vuelta y desapareció.
 
