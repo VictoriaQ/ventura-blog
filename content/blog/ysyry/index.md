@@ -35,23 +35,21 @@ a hincharse.
 Llevaba planeando su escapada varias semanas. Sabía que si contaba su plan
 nadie la dejaría llevarlo a la práctica, de modo que no había otra forma. No
 habría podido explicar que, de algún modo, confiaba en que los habitantes del poblado
-invasor les ayudarían. Solo había oído historias horribles acerca de ellos desde que le alcanzaba la memoria. Y, sin embargo, aquel niño al que vió entre los árboles aquel día le pareció de fiar. Eso era todo lo que tenía.
+invasor les ayudarían. Solo había oído historias horribles acerca de ellos desde que le alcanzaba la memoria. Y, sin embargo, aquel niño al que vio entre los árboles aquel día le pareció de fiar. Eso era todo lo que tenía.
 
 Comenzó a oír ruido mucho antes de que sus ojos viesen nada. Era un
 sonido fuerte y melódico que no se parecía a nada que conociese. En cierto
 modo similar a los tambores
 que solían tocarse en su aldea las noches en las que aún había algo que
 celebrar, pero mucho más estridente. Por algún motivo le
-hizo acelerar los pasos. Según se acercaba al borde de la selva, comenzó a
-oír lo que parecían fuertes jadeos y acertó a distinguir una
+hizo acelerar los pasos. Según se acercaba al borde de la selva, oyó lo que parecían fuertes jadeos y acertó a distinguir una
 figura que se movía de un modo en el que nunca había visto a nada
 moverse. La silueta pasaba frenéticamente de la posición vertical a la
 horizontal, para entonces impulsarse con manos y pies, volviendo a la
 postura inicial. Continuó la sucesión de esos movimientos durante lo que le
 pareció un tiempo interminable. A juzgar por los jadeos, tambien para la
-desquicida figura había sido una eternidad. Acabado el ritual, el sonido de tambores también
-frenó y la figura -en la que ahora podía distinguir a una chica algo mayor que
-ella misma- se dió la vuelta y desapareció.
+desquiciada figura había sido una eternidad. Acabado el ritual, el sonido de tambores cesó y la figura -en la que ahora podía distinguir a una chica algo mayor que
+ella misma- se dio la vuelta y desapareció.
 
 Aguardó unos minutos, agazapada bajo una hojas de palma. Tras convencerse
 de que nadie la observaba, se acercó sigilosamente al lugar en el
@@ -61,7 +59,7 @@ líquido azul, y que en el lateral mostraba a una persona bebiendo el propio
 líquido azul. Apenas había bebido unas gotas de agua desde la mañana, así que
 sin pensar se acercó el recipiente a los labios y bebió un gran trago de aquella cosa. Era dulce y
 refrescante. Sin respirar, apuró lo que quedaba en la botella.
-Al dejarla en el suelo encontró lo que parecía un pequeño lingote
+Al dejarla en el suelo encontró lo que parecía un pequeño lingote de
 algo comestible, pegajoso y mordisqueado. Tras olisquearlo se lo echó a la
 boca. Esto si lo había probado antes: sabía a miel. Recogiendo lo que quedaba de los
 recién descubierto tesoros, regresó tras las hojas de palma y se sentó a
