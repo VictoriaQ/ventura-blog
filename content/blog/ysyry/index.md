@@ -24,7 +24,7 @@ entre la maleza, atenta para no rozarse con ninguna planta venenosa y para
 evitar cualquier encuentro desagradable.
 
 A las doce del mediodía el cansancio comenzó a hacer mella. En su cabeza se
-sucedían los mensajes de intranquilidad que había empezado a oir hacía ya
+sucedían los mensajes de intranquilidad que había empezado a escuchar hacía ya
 muchos meses. «Hay cada vez menos aves», le oyó a su abuelo la primera vez. «El
 río se está secando», comentó la madre de su amigo Katu poco después. «Ya
 no vienen comadrejas», le dijo el anciano chamán a su padre. En los últimos meses ya
