@@ -28,7 +28,7 @@ sucedían los mensajes de intranquilidad que había empezado a escuchar hacía y
 muchos meses. «Hay cada vez menos aves», le oyó a su abuelo la primera vez. «El
 río se está secando», comentó la madre de su amigo Katu poco después. «Ya
 no vienen comadrejas», le dijo el anciano chamán a su padre. En los últimos meses ya
-no hacía falta decir nada. Todos sabían que no había apenas qué echarse a
+no hacía falta decir nada. Todos sabían que no había apenas que echarse a
 la boca, que los niños tenían los labios agrietados y las barrigas comenzaban 
 a hincharse.
 
@@ -51,7 +51,7 @@ pareció un tiempo interminable. A juzgar por los jadeos, también para la
 desquiciada figura había sido una eternidad. Acabado el ritual, el sonido de tambores cesó y la figura -en la que ahora podía distinguir a una chica algo mayor que
 ella misma- se dio la vuelta y desapareció.
 
-Aguardó unos minutos, agazapada bajo una hojas de palma. Tras convencerse
+Aguardó unos minutos, agazapada bajo unas hojas de palma. Tras convencerse
 de que nadie la observaba, se acercó sigilosamente al lugar en el
 que poco antes se había encontrado la extraña muchacha. Varios objetos habían quedado
 esparcidos en la hierba. El más sorprendente, una botella que contenía un
@@ -61,7 +61,7 @@ sin pensar se acercó el recipiente a los labios y bebió un gran trago de aquel
 refrescante. Sin respirar, apuró lo que quedaba en la botella.
 Al dejarla en el suelo encontró lo que parecía un pequeño lingote de
 algo comestible, pegajoso y mordisqueado. Tras olisquearlo se lo echó a la
-boca. Aquello si lo había probado antes: sabía a miel. Recogiendo lo que quedaba de los
+boca. Aquello sí lo había probado antes: sabía a miel. Recogiendo lo que quedaba de los
 recién descubierto tesoros, regresó tras las hojas de palma y se sentó a
 esperar. Se sentía con más energía de lo que se había sentido en muchas
 semanas.
