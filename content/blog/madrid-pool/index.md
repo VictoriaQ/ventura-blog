@@ -9,7 +9,7 @@ description: "Capstone Project - The Battle of Neighbourhoods"
 
 Madrid, the capital of Spain, is well known for its busy streets, loud people, thousands of bars, tasty tapas, and never ending nightlife.
 
-Despite many positive aspects, being close to the beach is not one of Madrid advantages. Having a good swimming pool nearby can be a great advantage, especially now that the population is becoming more and more aware of the importance of including some sports in their daily routines.
+Despite many positive aspects, being close to the beach is not one of Madrid's upsides. Having a good swimming pool nearby can be a great advantage, especially now that the population is becoming more and more aware of the importance of including some sports in their daily routines.
 
 In this project we aim to find a good spot in the city to build a new olympic-size pool, where people can swim before going to the office, after leaving it, or during a break.
 
