@@ -5,8 +5,6 @@ description: "Capstone Project - The Battle of Neighbourhoods"
 ---
 
 
-# A new swimming pool in Madrid
-
 ## 1. Introduction
 
 Madrid, the capital of Spain, is well known for its busy streets, loud people, thousands of bars, tasty tapas, and never ending nightlife.
