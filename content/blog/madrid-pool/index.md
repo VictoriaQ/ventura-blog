@@ -1,3 +1,10 @@
+---
+title: A new swimming pool in Madrid
+date: "2019-10-22T17:19:09.284Z"
+description: "Capstone Project - The Battle of Neighbourhoods"
+---
+
+
 # A new swimming pool in Madrid
 
 ## 1. Introduction
