@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Ventura`,
+    title: `Victoria Quirante`,
     author: `Victoria Quirante`,
-    description: `Un blog de aventuras.`,
+    description: `Playing ground`,
     siteUrl: `https://ysyry.netlify.com/`,
     social: {
       twitter: `vicqr`,
