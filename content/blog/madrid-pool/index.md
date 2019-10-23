@@ -26,7 +26,7 @@ We are going to use the Foursquare API to inspect Madrid's neighborhoods and bus
 
 This API will be our main source. More specifically, we will use it with three main objectives:
 
-* Locate the metro stations, that we will use as center points of our own custom "neighborhoods". The reason of using this approach is that we find those custom areas more appropriate for our purpose than the real districts of the city -they have a more similar size and can be used to divide Madrid in pretty regular grid where each square center is a convenient metro stop.
+* Locate the metro stations, that we will use as center points of our own custom "neighborhoods". The reason of using this approach is that we find those custom areas more appropriate for our purpose than the real districts of the city -they have a more similar size and can be used to divide Madrid in a pretty regular grid where each square center is a convenient metro stop.
 
 * Find positive indicators in each neighborhood, such as similar or complementary businesses, like gyms or supermarkets, that can point to a residential area with the characteristics that we are looking for.
 
@@ -88,7 +88,7 @@ The resulting clusters look pretty interesting, with clearly differentiated char
 
 Among the neighbourhoods in cluster 3, we want to look for one that with zero swimming pools nearby, a high amount of similar businesses nearby, and a low amount of undesired businesses/spots nearby. The top three neighbourhoods of cluster 3 meet this criteria. Not surprisingly, they also have the best (lowest) calculated custom ratio, which basically summarizes the information about desired and undesired business nearby.
 
-Finally, order to make a final decision among our last candidates, we use the rental data collected by the [main Spanish real-state portal](https://www.idealista.com/news/estadisticas/precio-linea-metro/madrid). The date is especially well suited for us, since it also takes metro stations as reference points. There we can see the following average prices for rent and purchase:
+Finally, in order to make a final decision among our last candidates, we use the rental data collected by the [main Spanish real-state portal](https://www.idealista.com/news/estadisticas/precio-linea-metro/madrid). The date is especially well suited for us, since it also takes metro stations as reference points. There we can see the following average prices for rent and purchase:
 
 * Metro Ventura Rodríguez: rental price 15 €/m², purchase price 3.616 €/m²
 * Metro Greforio Marañon: rental price 15,1 €/m², purchase price 4.599 €/m²
