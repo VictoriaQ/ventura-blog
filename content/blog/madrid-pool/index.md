@@ -15,7 +15,7 @@ In this project we aim to find a good spot in the city to build a new olympic-si
 
 Finding that spot may be tricky. On the one hand, as in many other European big cities, the central districts have being gentrified, rental prices have been skyrocketing in the last few years, and many neighborhoods are packed with tourists. On the other hand, we wouldn't like to place our new business too far from the busy areas, since that would make difficult for the people to make a frequent use of our facilities.
 
-Our goal is to find a place for the new pool that is well connected, placed in a good area with both residential and working/office buildings -instead of short-term rental accommodations-, with little competition around but good indicators for a business like ours. And, ideally, with an affordable or at least not excesive rental price. We may be asking too much, but we can only try.
+Our goal is to find a place for the new pool that is well connected, placed in a good area with both residential and working/office buildings -instead of short-term rental accommodations-, with little competition around but good indicators for a business like ours. And, ideally, with an affordable or at least not excessive rental price. We may be asking too much, but we can only try.
 
 If we manage to meet the project goal, the result may be very interesting for anyone that wants to set up a new swimming pool in Madrid. 
 
@@ -30,9 +30,9 @@ This API will be our main source. More specifically, we will use it with three m
 
 * Find positive indicators in each neighborhood, such as similar or complementary businesses, like gyms or supermarkets, that can point to a residential area with the characteristics that we are looking for.
 
-* Find negative indicators in each neighborhood, such as businesses that can be sign of a very touristic area with expensive rental prices -i.e. ice cream stores or significative monuments-, or the opposite -an area with no similar businesses, few shops, and presumably poor expectations for a business like ours.
+* Find negative indicators in each neighborhood, such as businesses that can be sign of a very touristic area with expensive rental prices -i.e. ice cream stores or significant monuments-, or the opposite -an area with no similar businesses, few shops, and presumably poor expectations for a business like ours.
 
-Additionally, we will use the accurate data collected in this popular Spanish [rental site](https://www.idealista.com/news/estadisticas/precio-linea-metro/madrid), in order to indentify which areas may be too expensive in spite of having other good indicators. The presentation of that data is quite convenient for us, since it also takes metro stations as the reference points, exactly as we are planning to do.
+Additionally, we will use the accurate data collected in this popular Spanish [rental site](https://www.idealista.com/news/estadisticas/precio-linea-metro/madrid), in order to identify which areas may be too expensive in spite of having other good indicators. The presentation of that data is quite convenient for us, since it also takes metro stations as the reference points, exactly as we are planning to do.
 
 
 ## 3. Methodology
@@ -46,7 +46,7 @@ With that in mind, we started using Python Folium library to visualize and analy
 * The current swimming pools already open in Madrid (in blue in the following image). One of the first thing we would like to avoid is to open a new swimming pool close to one or several similar businesses.
 * The gyms (purple). The idea behind was to identify areas with gyms. Gyms are similar businesses but not our competitors, so we could assume that areas that are good for gyms could be good for pools as well. More specifically, we could assume that a spot with gyms and no swimming pools nearby, could be good for our future business. 
 * The ice cream shops (orange). We thought that it could be used to identify touristic areas -which may be a sign of areas with high rental prices. The exploratory analysis seemed to confirm the assumption, showing a high concentration of ice cream shops in the most central / touristic areas.
-* The supermarkets (green). We wanted to place our business in a residential area, in a neighbourhood where people spend time, do their shopping. We don't want them to have to commute in order to find our swimminig pool, but to have it around the corner, if possible. Looking for areas with supermarkets seemed like a good feature with this in mind.
+* The supermarkets (green). We wanted to place our business in a residential area, in a neighbourhood where people spend time, do their shopping. We don't want them to have to commute in order to find our swimming pool, but to have it around the corner, if possible. Looking for areas with supermarkets seemed like a good feature with this in mind.
 * The metro stations (red). We plotted the metro stations in order to understand/show the anatomy of the city. As mentioned in the previous point, we wanted our swimming pool in a well connected spot, not in the middle of nowhere.
 * The coworking spaces (yellow). We thought that coworking spaces could point toward well connected spots with not excesive rental prices. The exploratory analysis seemed to confirm this hypothesis.
 * The monuments/landmarks (brown). We plotted them with the intention of avoiding spots close to these landmarks -supposedly correlated with touristic areas and high rental prices.
