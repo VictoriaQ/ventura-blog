@@ -101,9 +101,9 @@ Based on this we would discard Metro Gregorio Marañon, and pick between Ventura
 
 An additional possiblity would have been to import the data from the referenced real-state portal and include it in our dataframe, using it from the beginning to create our clusters instead of just to make a final decision among the last candidates. This approach was not followed because the real-state portal does not provide the date in an appropriate format -there was no possiblity to download the data in a file. Nevertheless, we believe that the obtained clusters already reflect four areas with different average rental prices, thanks to the analysis of the businesses -with cluster 0 having the lowest rental prices and cluster 1 the highest.
 
-It is also worth mentioning, that our selection of the appropriate cluster is closely related to the type of swimming pool that we are planning to build. That is, a swimming pool were office workers could go before, after or in a work break.
+It is also worth mentioning, that our selection of the appropriate cluster is closely related to the type of swimming pool that we are planning to build. That is, a swimming pool where office workers could go before, after or in a work break.
 
-For example, if we wanted instead a public summer swimming pool for residents, cluster 0 could have been an option
+For example, if we wanted instead a public summer swimming pool for residents, cluster 0 could have been an option.
 
 If we wanted a private swimming pool for tourist -likely with higher entrance fees, being able to pay higher rental prices-, we could have chosen cluster 1.
 
