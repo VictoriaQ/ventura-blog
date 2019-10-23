@@ -80,13 +80,13 @@ From our clean dataframe, we used K-means clustering to create the following fou
 
 The resulting clusters look pretty interesting, with clearly differentiated characteristics:
 
-* Cluster 0 contains the neighbourhoods with fewer gyms, supermarkets, ice cream shops, coworking spaces and monuments. At the same time is not the cluster with fewer swimming pools. This cluster corresponds to the outskirts neighbourhoods, where we can expect low rental prices, but also not many people spending their working hours there. The absence of similar busnesses, like gyms, makes us discard cluster 0.
+* Cluster 0 contains the neighbourhoods with fewer gyms, supermarkets, ice cream shops, coworking spaces and monuments. At the same time is not the cluster with fewer swimming pools. This cluster corresponds to the outskirts neighbourhoods, where we can expect low rental prices, but also not many people spending their working hours there. The absence of similar businesses, like gyms, makes us discard cluster 0.
 
 * Cluster 1 contains the most touristic areas, with plenty of business of all kinds, but also expected very high rental prices.
 
 * Clusters 2 and 3 are somehow similar: with a good amount of gyms and supermarkets, not the most central but also not too far from the center and therefore quite well connected. The main difference we can notice between cluster 2 and 3 is the higher amount of coworking spaces in cluster 3, which can point towards areas with office buildings, where people spend their working days, which is exactly what we are looking for. Also, we can see that there is a similar amount of gyms in clusters 3 and 2, but a lower amount of pools in cluster 3, which is also good for our future business. That lead us to pick a neighbourhood from cluster 3.
 
-Among the neighbourhoods in cluster 3, we want to look for one that with zero swimming pools nearby, a high amount of similar businesses nearby, and a low amount of undesired businesses/spots nerby. The top three neighbourhoods of cluster 3 meet this criteria. Not surprisingly, they also have the best (lowest) calculated custom ratio, which basically sumarizes the information about desired and undesired business nearby.
+Among the neighbourhoods in cluster 3, we want to look for one that with zero swimming pools nearby, a high amount of similar businesses nearby, and a low amount of undesired businesses/spots nearby. The top three neighbourhoods of cluster 3 meet this criteria. Not surprisingly, they also have the best (lowest) calculated custom ratio, which basically summarizes the information about desired and undesired business nearby.
 
 Finally, order to make a final decision among our last candidates, we use the rental data collected by the [main Spanish real-state portal](https://www.idealista.com/news/estadisticas/precio-linea-metro/madrid). The date is especially well suited for us, since it also takes metro stations as reference points. There we can see the following average prices for rent and purchase:
 
@@ -99,7 +99,7 @@ Based on this we would discard Metro Gregorio Marañon, and pick between Ventura
 
 ## 5. Discussion
 
-An additional possiblity would have been to import the data from the referenced real-state portal and include it in our dataframe, using it from the beginning to create our clusters instead of just to make a final decision among the last candidates. This approach was not followed because the real-state portal does not provide the date in an appropriate format -there was no possiblity to download the data in a file. Nevertheless, we believe that the obtained clusters already reflect four areas with different average rental prices, thanks to the analysis of the businesses -with cluster 0 having the lowest rental prices and cluster 1 the highest.
+An additional possibility would have been to import the data from the referenced real-state portal and include it in our dataframe, using it from the beginning to create our clusters instead of just to make a final decision among the last candidates. This approach was not followed because the real-state portal does not provide the date in an appropriate format -there was no possibility to download the data in a file. Nevertheless, we believe that the obtained clusters already reflect four areas with different average rental prices, thanks to the analysis of the businesses -with cluster 0 having the lowest rental prices and cluster 1 the highest.
 
 It is also worth mentioning, that our selection of the appropriate cluster is closely related to the type of swimming pool that we are planning to build. That is, a swimming pool where office workers could go before, after or in a work break.
 
@@ -111,7 +111,7 @@ If we wanted a private swimming pool for tourist -likely with higher entrance fe
 
 ## 6. Conclusions
 
-In this project we have leveraged the Foursquare API, using it to explore neighbourhoods and analyse them based on the type of businesses that are more and less frequent in the area. With that inforation, we have created K-mean clusters that split the city in four clearly different areas, that make total sense in terms of rental prices, distance from the city center, and type of building and business expected around.
+In this project we have leveraged the Foursquare API, using it to explore neighbourhoods and analyse them based on the type of businesses that are more and less frequent in the area. With that information, we have created K-mean clusters that split the city in four clearly different areas, that make total sense in terms of rental prices, distance from the city center, and type of building and business expected around.
 
 Two of the clusters could have been chosen depending of our exact requirements, and the model was precise enough to let us make an informed decision according to our needs. Inside each cluster was also easy to spot the best possible choices, letting us find exactly what we were looking for, and allowing us to adapt our decision to a slightly different scenario if the shareholders' requirements changed or we wanted to adapt to different needs.
 
