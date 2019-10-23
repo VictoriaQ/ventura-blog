@@ -48,7 +48,7 @@ With that in mind, we started using Python Folium library to visualize and analy
 * The ice cream shops (orange). We thought that it could be used to identify touristic areas -which may be a sign of areas with high rental prices. The exploratory analysis seemed to confirm the assumption, showing a high concentration of ice cream shops in the most central / touristic areas.
 * The supermarkets (green). We wanted to place our business in a residential area, in a neighbourhood where people spend time, do their shopping. We don't want them to have to commute in order to find our swimming pool, but to have it around the corner, if possible. Looking for areas with supermarkets seemed like a good feature with this in mind.
 * The metro stations (red). We plotted the metro stations in order to understand/show the anatomy of the city. As mentioned in the previous point, we wanted our swimming pool in a well connected spot, not in the middle of nowhere.
-* The coworking spaces (yellow). We thought that coworking spaces could point toward well connected spots with not excesive rental prices. The exploratory analysis seemed to confirm this hypothesis.
+* The coworking spaces (yellow). We thought that coworking spaces could point toward well connected spots with not excessive rental prices. The exploratory analysis seemed to confirm this hypothesis.
 * The monuments/landmarks (brown). We plotted them with the intention of avoiding spots close to these landmarks -supposedly correlated with touristic areas and high rental prices.
 
 ![exploratory.png](exploratory.png)
