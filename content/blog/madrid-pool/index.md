@@ -78,6 +78,8 @@ From our clean dataframe, we used K-means clustering to create the following fou
 
 ## 4. Results
 
+![clusters.png](clusters.png)
+
 The resulting clusters look pretty interesting, with clearly differentiated characteristics:
 
 * Cluster 0 contains the neighbourhoods with fewer gyms, supermarkets, ice cream shops, coworking spaces and monuments. At the same time is not the cluster with fewer swimming pools. This cluster corresponds to the outskirts neighbourhoods, where we can expect low rental prices, but also not many people spending their working hours there. The absence of similar businesses, like gyms, makes us discard cluster 0.
@@ -105,7 +107,7 @@ It is also worth mentioning, that our selection of the appropriate cluster is cl
 
 For example, if we wanted instead a public summer swimming pool for residents, cluster 0 could have been an option.
 
-If we wanted a private swimming pool for tourist -likely with higher entrance fees, being able to pay higher rental prices-, we could have chosen cluster 1.
+If we wanted a private swimming pool for tourists -likely with higher entrance fees, being able to pay higher rental prices-, we could have chosen cluster 1.
 
 
 
